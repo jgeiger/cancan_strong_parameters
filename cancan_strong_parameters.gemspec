@@ -19,7 +19,6 @@ Gem::Specification.new do |gem|
   # For testing
   gem.add_development_dependency "strong_parameters", "0.1.6"
   gem.add_development_dependency 'actionpack', '~> 3.0'
-  gem.add_development_dependency 'activesupport', '~> 3.0'
   gem.add_development_dependency 'activemodel', '~> 3.0'
   gem.add_development_dependency 'railties', '~> 3.0'
 
